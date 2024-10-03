@@ -1,0 +1,521 @@
+@media(max-width:575px){
+  #header {
+    font-size: 4px;
+  }
+  .header-left a{
+    font-size: 4px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 transparent !important;
+  }
+  .menu-bg ul li a{
+    font-size: 5px;
+    padding: 0 5px;
+  }
+  .navbar-nav{
+    flex-direction: row;
+  }
+  .menu-bg img{
+    width: 40%;
+  }
+  .menu-bg i{
+    font-size: 10px;
+  }
+  .navbar-toggler{
+    border: none;
+  }
+  .nev-icon i{
+    font-size: 5px;
+  }
+  .nev-icon p{
+    font-size: 8px;
+  }
+  .nev-iconi{
+    margin: 5px 10px 0 0;
+}
+.menu-bg ul li a::after{
+  width: 10px;
+  left: 5px;
+}
+.menu-bg ul li a::before{
+  width: 5px;
+  left: 5px;
+  top: 120%;
+}
+#about{
+  padding: 5px 0;
+}
+.about-main h1{
+  font-size: 15px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+.about-main h3{
+  font-size: 10px;
+}
+.about-main p{
+  font-size: 8px;
+  margin-bottom: -50px;
+}
+.about-btn a{
+  font-size: 5px;
+  padding: 5px 10px;
+  margin: 0 5px 0 0;
+}
+.service-icon i{
+  font-size: 8px;
+  margin-left: 2px;
+}
+.service-icon h5{
+  padding: 0 0 0 5px;
+  font-size: 6px;
+}
+.service-main p{
+  font-size: 5px;
+  margin-top: -30px;
+}
+.banner-ovarly {
+  height: 35px;
+}
+.banner-text h1{
+  font-size: 10px;
+}
+.banner-text h4{
+  font-size: 8px;
+  margin-top: -10px;
+}
+.ban-btn{
+  padding: 2px 5px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 5px;
+}
+.product-head h1::after{
+  left: 12%;
+}
+.product-head h1::before{
+  left: 12%;
+}
+.product-main ul li a{
+  font-size: 10px;
+  padding: 5px;
+}
+.product-ovarly ul{
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+.product-ovarly ul li{
+  margin-bottom: 10px;
+}
+.product-ovarly ul li i{
+  width: 30px;
+  height: 30px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  color: #fff;
+  font-size: 10px;
+  padding-top: 2px;
+}
+.text2 h6{
+  font-size: 5px;
+  font-weight: 600;
+}
+.text1 h6{
+  font-size: 5px;
+  font-weight: 600;
+}
+.text1 i{
+  font-size: 3px;
+  margin-top: -10px;
+}
+.launch-text1 h5{
+  font-size: 5px;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.launch-text1 h1{
+  font-size: 8px;
+}
+.launch-text1 p{
+  font-size: 4px;
+}
+.lau-text{
+  border: 1px solid #222;
+  padding: 2px 5px;
+  margin-right: 2px;
+  text-align: center;
+}
+.lau-text h6{
+  font-size: 5px;
+}
+.latest-head h1::after{
+  left: 17%;
+}
+.latest-head h1::before{
+  left: 17%;
+}
+.latest-ovarly ul{
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+.latest-ovarly ul li{
+  margin-bottom: 10px;
+}
+.latest-ovarly ul li i{
+  width: 30px;
+  height: 30px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  color: #fff;
+  font-size: 10px;
+  padding-top: 2px;
+}
+}
+
+@media(min-width:576px) and  (max-width:767px){
+  .header-left a{
+    font-size: 8px;
+  }
+  .header-right{
+    margin-left: 120px;
+  }
+  .header-right a{
+    font-size: 8px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 transparent !important;
+  }
+  .menu-bg ul li a::after{
+    left: 2px;
+  }
+  .menu-bg ul li a::before{
+    left: 2px;
+  }
+  #about{
+    padding: 100px 0;
+  }
+  .service-icon i{
+    font-size: 30px;
+    margin-left: 10px;
+  }
+  .service-icon h5{
+    font-size: 12px;
+    padding-top: 8px;
+  }
+  .service-main p{
+    font-size: 10px;
+    margin-top: -15px;
+}
+  .banner-ovarly{
+    height: 60px;
+  }
+  .banner-text h1{
+    font-size: 10px;
+  }
+  .banner-text h4{
+    padding-top: 4px;
+    font-size: 12px;
+    margin-bottom: -0px;
+  }
+  .ban-btn{
+    padding: 5px 10px;
+    font-size: 10px;
+  }
+  .product-head h1::after{
+    left: 24%;
+  }
+  .product-head h1::before{
+    left: 24%;
+  }
+  .product-main ul li a{
+    padding: 20px;
+}
+.product-img1{
+  margin-top: 30px;
+}
+.launch-inner{
+  margin-top: 30px;
+}
+.latest-head h1::after{
+  left: 27%;
+}
+.latest-head h1::before{
+  left: 27%;
+}
+.testi-head1{
+  margin-top: 50px;
+}
+.testi-head h1::after{
+  left: 36%;
+  width: 100px;
+}
+.testi-head h1::before{
+  left: 36%;
+  width: 80px;
+}
+
+.blog-head h1::after{
+  left: 38%;
+  width: 100px;
+}
+.blog-head h1::before{
+  left: 38%;
+  width: 80px;
+}
+.blog-main1{
+  padding: 0 120px;
+}
+.blog-test2{
+  font-size: 6px;
+}
+.blog-text h5{
+  font-size: 12px;
+  margin-bottom: -15px;
+}
+.blog-text p{
+  font-size: 10px;
+}
+.blog-text1{
+  margin-bottom: 20px;
+
+}
+.contact-icon i{
+  margin-top: 6px;
+}
+.contact-icon1{
+  margin-top: -18px;
+}
+.account-head{
+  margin-top: 40px;
+}
+.footer-right{
+  margin-top: 40px;
+}
+.footer-logo1{
+  margin-bottom: -30px;
+}
+.col-sm-12{
+  text-align: center;
+}
+.copy-img1{
+  text-align: center;
+}
+}
+@media(min-width:768px) and (max-width:991px){
+  .header-left a{
+    font-size: 14px;
+  }
+  .header-right{
+    margin-left: 180px;
+  }
+  .header-right a{
+    font-size: 14px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: 0 0 0 transparent !important;
+  }
+  .menu-bg ul li a::after{
+    left: 1px;
+    top: 90%;
+  }
+  .menu-bg ul li a::before{
+    left: 1px;
+    top: 100%;
+  }
+  .about-main p{
+    padding: 0 250px 0 0;
+  }
+  #about{
+    padding: 100px 0;
+  }
+  .service-icon i{
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 5px;
+  }
+  .banner-ovarly{
+    height: 94px;
+  }
+  .banner-text h1{
+    font-size: 18px;
+  }
+  .banner-text h4{
+    padding-top: 4px;
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  .ban-btn{
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+  .product-head h1::after{
+    left: 29%;
+  }
+  .product-head h1::before{
+    left: 29%;
+  }
+  .product-main ul li a{
+    padding: 40px;
+}
+.product-img1{
+  margin-top: 60px;
+}
+.launch-inner{
+  margin-top: 30px;
+}
+.latest-head h1::after{
+  left: 32%;
+}
+.latest-head h1::before{
+  left: 32%;
+}
+.testi-head h1::after{
+  left: 39%;
+}
+.testi-head h1::before{
+  left: 39%;
+}
+.blog-head h1::after{
+  left: 40%;
+}
+.blog-head h1::before{
+  left: 40%;
+}
+.blog-main1{
+  padding: 0 180px;
+}
+.blog-test2{
+  font-size: 6px;
+}
+.blog-text h5{
+  font-size: 12px;
+  margin-bottom: -15px;
+}
+.blog-text p{
+  font-size: 10px;
+}
+.blog-text1{
+  margin-bottom: 20px;
+
+}
+.contact-icon i{
+  margin-top: 6px;
+}
+.contact-icon1{
+  margin-top: -18px;
+}
+.account-head{
+  margin-top: 40px;
+}
+.footer-right{
+  margin-top: 40px;
+}
+.footer-logo1{
+  margin-bottom: -30px;
+}
+.col-sm-12{
+  text-align: center;
+}
+.copy-img1{
+  text-align: center;
+}
+}
+
+@media(min-width:992px) and (max-width:1199px){
+  .banner-ovarly{
+    height: 125px;
+  }
+  .banner-text h1{
+    font-size: 22px;
+    margin-top: 10px;
+  }
+  .banner-text h4{
+    padding-top: 4px;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .ban-btn{
+    padding: 8px 15px;
+    font-size: 15px;
+  }
+  .product-head h1{
+    font-size: 34px;
+  }
+  .product-head h1::after{
+    left: 0%;
+  }
+  .product-head h1::before{
+    left: 0%;
+  }
+  .product-main{
+    margin-left: -100px;
+  }
+  .product-main ul li a{
+    padding: 40px;
+}
+  .product-text h6{
+    font-size: 10px;
+  }
+  .launch-img{
+    margin-top: 90px;
+  }
+  .latest-head h1::after{
+    left: 5%;
+  }
+  .latest-head h1::before{
+    left: 5%;
+  }
+  .text1 h6{
+    font-size: 10px;
+    margin-bottom: -8px;
+  }
+  .text2 h6{
+    font-size: 10px;
+    
+  }
+  .text1 i{
+    font-size: 10px;
+   
+  }
+  .testi-head h1::after{
+    left: 20%;
+  }
+  .testi-head h1::before{
+    left: 20%;
+  }
+  .testi-text span{
+    padding-left: 200px;
+}
+.blog-head h1::after{
+  left: 25%;
+}
+.blog-head h1::before{
+  left: 25%;
+}
+.blog-text h5{
+  font-size: 18px;
+}
+.blog-text p{
+  font-size: 12px;
+}
+.contact-icon i{
+  margin-top: 6px;
+}
+.contact-icon1{
+  margin-top: -18px;
+}
+
+}
+
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
